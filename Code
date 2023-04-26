@@ -39,3 +39,4 @@ else:
 
 print(name + " " + "asks:" + " " + question ) 
 print ("magic 8-Ball's answer:" + answer)
+
